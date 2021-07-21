@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+😁An ordinary student and slow walker.
+
+🎯Currently learning data structure and discreet mathematics.
+
+💓Thanks for loving me.
 
 
 <!--
