@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Feel free to say Hi !
 
 😁An ordinary student and slow walker.
 
