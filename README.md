@@ -1,11 +1,14 @@
 ### 👋 Feel free to say Hi !
 
-😁An ordinary student and slow walker.
+### 😁 An ordinary boy and a slow walker.
 
-🎯Currently learning data structure and discreet mathematics.
+### 🎯 Currently learning data structure and discreet mathematics.
 
-💓Thanks for loving me.
+### 👔 Loving coding and experimenting on daily outfits for my whole life.
 
+### 💓 Thanks for loving me.
+
+### 📬 Contact with me: 13306979928@163.com
 
 <!--
 **airhaohan/airhaohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
