@@ -2,7 +2,7 @@
 
 ### 😁 An ordinary boy and a slow walker.
 
-### 🎯 Currently learning data structure and discrete mathematics.
+### 🎯 Currently learning data structure, discrete mathematics and html.
 
 ### 👔 Loving coding and experimenting on daily outfits for my whole life.
 
