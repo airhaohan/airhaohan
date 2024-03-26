@@ -1,8 +1,8 @@
 ### 👋 Feel free to say Hi !
 
-### 😁 An ordinary boy and a slow walker.
+### 😁 A slow walker and a persistent learner.
 
-### 🎯 Currently learning operating system, computer network and machine learning.
+### 🎯 Currently studying in Log Compression and Auto Logging.
 
 ### 💓 Thanks for loving me !
 
