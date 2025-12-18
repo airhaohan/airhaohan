@@ -2,7 +2,7 @@
 
 ### 😁 A slow walker and a persistent learner.
 
-### 🎯 Currently studying in Log Compression and Auto Logging.
+### 🎯 Currently studying in ML System and AI Infra.
 
 ### 💓 Thanks for loving me !
 
