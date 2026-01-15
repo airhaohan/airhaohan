@@ -4,8 +4,6 @@
 
 ### 🎯 Currently studying in ML System and AI Infra.
 
-### 💓 Thanks for loving me !
-
 ### 📬 Contact with me:  air_haohan@163.com
 
 
